@@ -22,11 +22,11 @@
 #include "Game.h"
 #include "SpriteCodex.h"
 #include <assert.h>
-//pruaba
-//escrito en mainnn
-//My branchoooooo
-//
-//escrito en maiiiin
+//master
+//master
+//master
+//master
+//master
 Game::Game( MainWindow& wnd )
 	:
 	wnd( wnd ),
