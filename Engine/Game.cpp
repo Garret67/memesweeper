@@ -22,6 +22,7 @@
 #include "Game.h"
 #include "SpriteCodex.h"
 #include <assert.h>
+//pruaba
 
 Game::Game( MainWindow& wnd )
 	:
